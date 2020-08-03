@@ -1,4 +1,4 @@
-const sayHello = (name = "hello !") => console.log(name) ;
+const sayHello = (name = "hello World ! How are you all") => console.log(name) ;
 sayHello();
 
 module.exports = {
